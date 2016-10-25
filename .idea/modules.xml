@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/GoPro2/GoPro2.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/GoPro2/GoPro2.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/GoPro2/action/action.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/GoPro2/action/action.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/GoPro2/app/app.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/GoPro2/app/app.iml" />
+    </modules>
+  </component>
+</project>
